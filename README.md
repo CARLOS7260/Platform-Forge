@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/CARLOS7260/Autonomous-Infrastructure-Control-Platform/actions/workflows/ci.yml/badge.svg)](https://github.com/CARLOS7260/Autonomous-Infrastructure-Control-Platform/actions/workflows/ci.yml)
 
-Platform Forge é um **Internal Developer Platform** de referência, com foco em self-service de infraestrutura, deploy governado, auditoria e observabilidade. A proposta é se aproximar de um produto interno real usado por times de engenharia para criar ambientes, aprovar mudanças e operar aplicações com segurança.
+Platform Forge é uma **plataforma interna de exemplo** que simula self‑service de infraestrutura, deploys governados, auditoria e observabilidade. A ideia é aproximar o fluxo de um produto real usado por times de engenharia para criar ambientes, aprovar mudanças e operar aplicações com segurança.
 
 ## Visão geral
 

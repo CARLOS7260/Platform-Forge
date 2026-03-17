@@ -110,10 +110,10 @@ export default async function Page() {
 
               <div className="space-y-4">
                 <h1 className="max-w-4xl text-4xl font-semibold leading-tight text-white md:text-6xl">
-                  Uma plataforma interna que parece produto de empresa real.
+                  Uma plataforma interna de exemplo que simula o fluxo de um produto real.
                 </h1>
                 <p className="max-w-3xl text-lg leading-8 text-slate-300">
-                  Self-service para criar ambientes, aprovar deploys, registrar incidentes e auditar operações com uma narrativa visual de engenharia de plataforma, pronta para impressionar recrutadores.
+                  Self-service para criar ambientes, aprovar deploys, registrar incidentes e auditar operações com foco em arquitetura de plataforma e operação de serviços.
                 </p>
               </div>
 
@@ -361,11 +361,17 @@ export default async function Page() {
                 </div>
               </div>
               <div className="rounded-3xl border border-slate-800 bg-slate-900/60 p-5">
-                <h3 className="text-lg font-semibold text-white">Leitura executiva</h3>
+                <h3 className="text-lg font-semibold text-white">Leitura pessoal</h3>
                 <ul className="mt-4 space-y-3 text-sm text-slate-300">
-                  <li className="rounded-2xl border border-slate-800 bg-slate-950/80 px-4 py-3">Bom para vagas de Platform Engineer, SRE e DevOps.</li>
-                  <li className="rounded-2xl border border-slate-800 bg-slate-950/80 px-4 py-3">Demonstra produto, automação e governança em uma única história.</li>
-                  <li className="rounded-2xl border border-slate-800 bg-slate-950/80 px-4 py-3">Tem dados seedados e uma demo clara para entrevista.</li>
+                  <li className="rounded-2xl border border-slate-800 bg-slate-950/80 px-4 py-3">
+                    Projeto que usei para treinar arquitetura de plataforma, automação e operação de serviços.
+                  </li>
+                  <li className="rounded-2xl border border-slate-800 bg-slate-950/80 px-4 py-3">
+                    Mostra como eu organizo um sistema completo: portal, API, fila, worker, banco e observabilidade.
+                  </li>
+                  <li className="rounded-2xl border border-slate-800 bg-slate-950/80 px-4 py-3">
+                    Serve como base para conversas técnicas sobre design de plataforma, não apenas telas isoladas.
+                  </li>
                 </ul>
                 <div className="mt-5 rounded-2xl border border-cyan-400/15 bg-cyan-500/5 p-4 text-sm text-cyan-100">
                   Stack: Next.js, TypeScript, FastAPI, PostgreSQL, Redis e Docker.
